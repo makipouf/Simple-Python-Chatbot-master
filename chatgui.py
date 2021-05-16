@@ -146,7 +146,4 @@ SendButton.place(x=6, y=401, height=90)
 
 base.mainloop()
 
-if not chatbot_response_link("hello"):
-    print(1+1)
-else:
-    print(2+2)
+
